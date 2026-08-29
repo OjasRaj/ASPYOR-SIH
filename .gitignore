@@ -1,35 +1,6 @@
-# Virtual environment
+.env
 .venv/
 venv/
-env/
-
-# Environment variables / secrets
-.env
-.env.example
-.env.*
-!.env.example
-
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Testing / coverage
-.pytest_cache/
-.coverage
-htmlcov/
-
-# IDE
-.vscode/
-.idea/
-
-# Logs
+*.pyc
 logs/
-*.log
-
-# Local data
-data/processed/
-
-# OS
-.DS_Store
-Thumbs.db
