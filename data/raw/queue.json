@@ -1,0 +1,30 @@
+{
+    "store_id": "STORE_001",
+    "last_updated": "2026-08-27T16:00:00",
+    "counters": [
+        {
+            "counter_id": "C001",
+            "status": "active",
+            "queue_length": 6,
+            "estimated_wait_minutes": 4
+        },
+        {
+            "counter_id": "C002",
+            "status": "active",
+            "queue_length": 11,
+            "estimated_wait_minutes": 8
+        },
+        {
+            "counter_id": "C003",
+            "status": "active",
+            "queue_length": 15,
+            "estimated_wait_minutes": 11
+        },
+        {
+            "counter_id": "C004",
+            "status": "inactive",
+            "queue_length": 0,
+            "estimated_wait_minutes": 0
+        }
+    ]
+}

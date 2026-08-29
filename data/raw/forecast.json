@@ -1,0 +1,24 @@
+{
+    "store_id": "STORE_001",
+    "generated_at": "2026-08-27T16:00:00",
+    "predictions": [
+        {
+            "forecast_id": "F001",
+            "metric": "footfall",
+            "section": "Electronics",
+            "predicted_time": "2026-08-27T17:00:00",
+            "predicted_value": 240,
+            "baseline_value": 170,
+            "prediction_confidence": 0.91
+        },
+        {
+            "forecast_id": "F002",
+            "metric": "footfall",
+            "section": "Grocery",
+            "predicted_time": "2026-08-27T18:00:00",
+            "predicted_value": 310,
+            "baseline_value": 250,
+            "prediction_confidence": 0.87
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "store_id": "STORE_001",
+    "last_updated": "2026-08-27T16:00:00",
+    "products": [
+        {
+            "product_id": "P001",
+            "product_name": "Milk 1L",
+            "category": "Dairy",
+            "stock": 8,
+            "threshold": 10
+        },
+        {
+            "product_id": "P002",
+            "product_name": "Bread",
+            "category": "Bakery",
+            "stock": 23,
+            "threshold": 10
+        },
+        {
+            "product_id": "P003",
+            "product_name": "Rice 5kg",
+            "category": "Staples",
+            "stock": 6,
+            "threshold": 10
+        },
+        {
+            "product_id": "P004",
+            "product_name": "Cooking Oil 1L",
+            "category": "Staples",
+            "stock": 15,
+            "threshold": 10
+        },
+        {
+            "product_id": "P005",
+            "product_name": "Biscuits",
+            "category": "Snacks",
+            "stock": 4,
+            "threshold": 10
+        }
+    ]
+}

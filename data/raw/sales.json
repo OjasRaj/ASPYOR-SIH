@@ -1,0 +1,47 @@
+{
+    "store_id": "STORE_001",
+    "date": "2026-08-27",
+    "last_updated": "2026-08-27T16:00:00",
+    "summary": {
+        "revenue": 58450.00,
+        "units_sold": 1247,
+        "transactions": 386
+    },
+    "products": [
+        {
+            "product_id": "P001",
+            "product_name": "Milk 1L",
+            "category": "Dairy",
+            "units_sold": 87,
+            "revenue": 5220.00
+        },
+        {
+            "product_id": "P002",
+            "product_name": "Bread",
+            "category": "Bakery",
+            "units_sold": 64,
+            "revenue": 2560.00
+        },
+        {
+            "product_id": "P003",
+            "product_name": "Rice 5kg",
+            "category": "Staples",
+            "units_sold": 41,
+            "revenue": 4920.00
+        },
+        {
+            "product_id": "P004",
+            "product_name": "Cooking Oil 1L",
+            "category": "Staples",
+            "units_sold": 53,
+            "revenue": 7950.00
+        },
+        {
+            "product_id": "P005",
+            "product_name": "Biscuits",
+            "category": "Snacks",
+            "units_sold": 92,
+            "revenue": 3680.00
+        }
+    ]
+}
