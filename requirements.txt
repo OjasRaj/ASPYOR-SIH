@@ -1,0 +1,5 @@
+python-dotenv
+flask
+pydantic
+groq
+requests
